@@ -1,0 +1,228 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (2 ms)
+Loading the tools information
+Finished loading the tools information (48 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished loading the manifest data (6591 ms)
+Loading the device db
+Finished loading the device db (2867 ms)
+0 error(s), 0 warning(s)
+
+Summary: 
+
+BSP: CY8CPROTO-062-4343W
+Template Application(s): HAL FreeRTOS-POSIX Demo
+Application(s) Root Path: C:/Users/pranj/Pranjal/Study/rtos_psoc6/template
+
+Press "Create" to create the selected application(s).
+
+Collecting application data...
+
+Info: The following entered on the command line will create the exact same project as that created with the GUI tool:
+C:/Users/pranj/ModusToolbox/tools_3.1/project-creator/project-creator-cli.exe --board-id CY8CPROTO-062-4343W --board-uri https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W --board-commit latest-v4.X --app-id mtb-example-hal-posix-freertos --app-uri https://github.com/Infineon/mtb-example-hal-posix-freertos --app-commit latest-v1.X --target-dir C:/Users/pranj/Pranjal/Study/rtos_psoc6/template --user-app-name HAL_FreeRTOS-POSIX_Demo --use-modus-shell
+
+Starting application creation for 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo'.
+Acquiring the application source 'https://github.com/Infineon/mtb-example-hal-posix-freertos'.
+Acquired application source successfully.
+Loading the application.
+Loaded the application successfully.
+Processing project 'HAL_FreeRTOS-POSIX_Demo'.
+Starting to commit changes to the filesystem and project 'mtb-example-hal-posix-freertos'.
+Writing mtb file for asset 'CY8CPROTO-062-4343W' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/deps'.
+Writing mtb file for asset 'freertos' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs'.
+Writing mtb file for asset 'cat1cm0p' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs'.
+Writing mtb file for asset 'core-lib' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs'.
+Writing mtb file for asset 'core-make' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs'.
+Writing mtb file for asset 'mtb-hal-cat1' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs'.
+Writing mtb file for asset 'mtb-pdl-cat1' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs'.
+Writing mtb file for asset 'recipe-make-cat1a' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs'.
+Writing mtb file for asset 'abstraction-rtos' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs'.
+Writing mtb file for asset 'clib-support' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs'.
+Writing mtb file for asset 'cmsis' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs'.
+Writing mtb file for asset 'freertos-posix' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/deps'.
+Writing mtb file for asset 'retarget-io' to the folder 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/deps'.
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs clone --origin cypress --no-checkout https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W TARGET_CY8CPROTO-062-4343W
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/freertos-posix clone --origin cypress --no-checkout https://github.com/Infineon/freertos-posix release-v1.0.0
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/retarget-io/release-v1.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/freertos/release-v10.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Cloning into 'TARGET_CY8CPROTO-062-4343W'...
+Cloning into 'release-v1.0.0'...
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/freertos/release-v10.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/cat1cm0p/release-v1.2.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/retarget-io/release-v1.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/core-lib/release-v1.4.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/cat1cm0p/release-v1.2.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/core-make/release-v3.2.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/core-lib/release-v1.4.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/mtb-hal-cat1/release-v2.4.3 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/core-make/release-v3.2.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/mtb-pdl-cat1/release-v3.7.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/mtb-hal-cat1/release-v2.4.3 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/recipe-make-cat1a/release-v2.1.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/mtb-pdl-cat1/release-v3.7.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/abstraction-rtos/release-v1.7.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/freertos-posix clone --origin cypress --no-checkout https://github.com/Infineon/freertos-posix release-v1.0.0
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/clib-support/release-v1.4.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/recipe-make-cat1a/release-v2.1.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/cmsis/release-v5.8.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/abstraction-rtos/release-v1.7.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/freertos/release-v10.5.0 -c advice.detachedHead=false checkout release-v10.5.0 --force
+HEAD is now at 1030534 Upload freertos 10.5.0.595 [1864]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/freertos/release-v10.5.0 -c advice.detachedHead=false checkout release-v10.5.0 --force
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/retarget-io/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+HEAD is now at db7f962 Upload retarget-io [1515]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/retarget-io/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/cat1cm0p/release-v1.2.0 -c advice.detachedHead=false checkout release-v1.2.0 --force
+HEAD is now at 68f0d3e Upload cat1cm0p 1.2.0.325 [1884]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/cat1cm0p/release-v1.2.0 -c advice.detachedHead=false checkout release-v1.2.0 --force
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/core-lib/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/cmsis/release-v5.8.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/core-make/release-v3.2.2 -c advice.detachedHead=false checkout release-v3.2.2 --force
+HEAD is now at a74be8b Upload core-lib [1796]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/core-lib/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/mtb-hal-cat1/release-v2.4.3 -c advice.detachedHead=false checkout release-v2.4.3 --force
+HEAD is now at b962a1e Upload core-make 3.2.2.4739 [1647]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/core-make/release-v3.2.2 -c advice.detachedHead=false checkout release-v3.2.2 --force
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/mtb-pdl-cat1/release-v3.7.0 -c advice.detachedHead=false checkout release-v3.7.0 --force
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/clib-support/release-v1.4.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/freertos-posix/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+HEAD is now at 0373e75 Upload mtb-hal-cat1 [1864]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/mtb-hal-cat1/release-v2.4.3 -c advice.detachedHead=false checkout release-v2.4.3 --force
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/recipe-make-cat1a/release-v2.1.1 -c advice.detachedHead=false checkout release-v2.1.1 --force
+HEAD is now at 9cbdee3 Upload recipe-make-cat1a 2.1.1.4648 [1380]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/recipe-make-cat1a/release-v2.1.1 -c advice.detachedHead=false checkout release-v2.1.1 --force
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/abstraction-rtos/release-v1.7.4 -c advice.detachedHead=false checkout release-v1.7.4 --force
+HEAD is now at 94eb787 Upload mtb-pdl-cat1 3.7.0.27344 [1864]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/mtb-pdl-cat1/release-v3.7.0 -c advice.detachedHead=false checkout release-v3.7.0 --force
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+HEAD is now at c12bb7c Upload freertos-posix 1.0.0.39 [1000]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/freertos-posix/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/clib-support/release-v1.4.2 -c advice.detachedHead=false checkout release-v1.4.2 --force
+HEAD is now at 2ae0972 Upload abstraction-rtos [1771]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/abstraction-rtos/release-v1.7.4 -c advice.detachedHead=false checkout release-v1.7.4 --force
+HEAD is now at 97cf620 Upload clib-support [1864]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/clib-support/release-v1.4.2 -c advice.detachedHead=false checkout release-v1.4.2 --force
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs clone --origin cypress --no-checkout https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W TARGET_CY8CPROTO-062-4343W
+Starting: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs/TARGET_CY8CPROTO-062-4343W -c advice.detachedHead=false checkout release-v4.2.0 --force
+HEAD is now at d51de59 Upload TARGET_CY8CPROTO-062-4343W [1515]
+Success: git -C C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs/TARGET_CY8CPROTO-062-4343W -c advice.detachedHead=false checkout release-v4.2.0 --force
+Requested to change the active target to 'APP_CY8CPROTO-062-4343W'.
+Removed the file 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/deps/TARGET_CY8CPROTO-062-4343W.mtb'.
+Writing the file 'C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/libs/app.mk'.
+Successfully committed changes to the project 'mtb-example-hal-posix-freertos'.
+Project "HAL_FreeRTOS-POSIX_Demo" created successfully.
+Successfully created "HAL_FreeRTOS-POSIX_Demo" application.
+==============================================================================
+= Export "HAL_FreeRTOS-POSIX_Demo" application to Eclipse IDE for ModusToolbox™ =
+==============================================================================
+make eclipse CY_IDE_PRJNAME=HAL_FreeRTOS-POSIX_Demo CY_MAKE_IDE=eclipse CY_MAKE_IDE_VERSION=3.1 CY_TOOLS_PATHS=C:/Users/pranj/ModusToolbox/tools_3.1 MTB_MAKE_ECLIPSE_FORCE_REGENERATE_PROJECT=1
+Tools Directory: C:/Users/pranj/ModusToolbox/tools_3.1
+Removing .mtbqueryapi file...
+Searching installed tools in progress...
+Searching installed tools complete
+Initializing build: mtb-example-hal-posix-freertos Debug APP_CY8CPROTO-062-4343W GCC_ARM
+Prebuild operations complete
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+Tools Directory: C:/Users/pranj/ModusToolbox/tools_3.1
+Constructing build rules...
+Build rules construction complete
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Generated C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/.cproject
+Generated C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/.project
+Generated C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/.mtbLaunchConfigs/HAL_FreeRTOS-POSIX_Demo Attach (KitProg3_MiniProg4).launch
+Generated C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/.mtbLaunchConfigs/HAL_FreeRTOS-POSIX_Demo Debug (KitProg3_MiniProg4).launch
+Generated C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/.mtbLaunchConfigs/HAL_FreeRTOS-POSIX_Demo Erase (KitProg3_MiniProg4).launch
+Generated C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/HAL_FreeRTOS-POSIX_Demo/.mtbLaunchConfigs/HAL_FreeRTOS-POSIX_Demo Program (KitProg3_MiniProg4).launch
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+The application "HAL_FreeRTOS-POSIX_Demo" was successfully exported to Eclipse IDE for ModusToolbox™.
+0 error(s), 0 warning(s)
+
+Summary:
+
+Successfully created and exported "HAL_FreeRTOS-POSIX_Demo" application.
