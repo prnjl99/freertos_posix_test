@@ -1,0 +1,12 @@
+23:46:33 **** Clean-only build of configuration Debug for project golden_freertos ****
+"C:\\Users\\pranj\\ModusToolbox\\tools_3.1\\modus-shell\\bin\\make" CY_MAKE_IDE=eclipse CY_IDE_TOOLS_DIR=C:/Users/pranj/ModusToolbox/tools_3.1 CY_IDE_BT_TOOLS_DIR= --output-sync -j16 clean 
+Tools Directory: C:/Users/pranj/ModusToolbox/tools_3.1
+Removing .mtbqueryapi file...
+Searching installed tools in progress...
+Searching installed tools complete
+
+
+rm -rf C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/golden_freertos/build/APP_CY8CPROTO-062-4343W/Debug C:/Users/pranj/Pranjal/Study/rtos_psoc6/template/golden_freertos/build/APP_CY8CPROTO-062-4343W/generated
+
+23:46:34 Build Finished. 0 errors, 0 warnings. (took 1s.32ms)
+
